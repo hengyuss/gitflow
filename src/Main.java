@@ -3,6 +3,7 @@ public class Main {
     System.out.println("Hello world!");
     System.out.println("add new sequence------");
     System.out.println("add new sequence1");
+    System.out.println("add new sequence2");
     System.out.println("add new sequence");
     System.out.println("Test5");
     System.out.println("Test4");
